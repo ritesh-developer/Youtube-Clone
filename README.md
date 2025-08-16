@@ -36,6 +36,7 @@ Youtube-Clone/
 ---
 
 ## ▶️ How to Run
+
 1.  Clone or download this repository:
     ```bash
     git clone https://github.com/ritesh-developer/Youtube-Clone.git    ```
